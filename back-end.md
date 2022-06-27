@@ -21,7 +21,7 @@ going into production.
 Each country has a shipping rate per 100 grams 
 
 **Shipping rates**:
-**Hint**: [see below, how to calculate each item shipping fees](#q-i-got-confused-on-how-to-calculate-an-item-price-and-its-shipping-and-vat)
+**Hint**: [see below, how to calculate each item shipping fees](#frequently-asked-questions)
 | Country | Rate  | 
 | -------- | -------- |
 | US | $2 |
