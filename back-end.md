@@ -7,7 +7,7 @@ going into production.
 ***Write a program that can price a cart of products from different countries, accept multiple products, combine offers, and display a total detailed invoice in USD as well.***
 
 **Available catalog products** and their respective price in USD (regardless of the shipping country):
-**Hint**: [see below, how to calculate each item shipping fees](#q-i-got-confused-on-how-to-calculate-an-item-price-and-its-shipping-and-vat)
+**Hint**: [see below, how to calculate each item shipping fees](#frequently-asked-questions)
 
 | Item type | Item price | Shipped from | Weight |
 | -------- | -------- | -------- |  -------- | 
