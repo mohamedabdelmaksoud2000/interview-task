@@ -124,7 +124,7 @@ Github, Bitbucket, etc.). **Reply** with the repo link to the **email** we sent.
 ###### A: Although there's NO deadline, we endorse having you take a good look at the task; send us back your best estimate of delivery, which can show us your commitment level without putting any pressure on your schedules. **Most candidates deliver it in a week**.
 
 ##### Q: Shall I use any persistent layer (database) to manage stuff like products or currencies?
-###### A: This **doesn't** come as a requirement; however, we value using practices like configurations/fixtures to control these stuff, rather than adding some admin panel to enter these data.
+###### A: We value adding some admin panel to enter these data , rather than using practices like configurations/fixtures to control these stuff.
 
 ##### Q: Do I need to provide a functional user interface to represent the task? Can I use a ready-made library that implements all the required functionalities?
 ###### A: Yes, the task is clearly about assessing your technical knowledge and problem solving from a design and architecture point of view; and showing this means you are fullfill the task requirements.
