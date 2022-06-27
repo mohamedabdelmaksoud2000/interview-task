@@ -14,7 +14,7 @@ Write your README as if it was for a production service. Include the following i
 How we review
 -------------
 
-Your application will be reviewed by at least two of our engineers. We do take into consideration your experience level.
+Your application will be reviewed by our senior IT engineer. We do take into consideration your experience level.
 
 **We value quality over feature-completeness**. It is fine to leave things aside provided you call them out in your project's README. The goal of this code sample is to help us identify what you consider production-ready code. You should consider this code ready for final review with your colleague, i.e. this would be the last step before deploying to production.
 
@@ -29,6 +29,6 @@ The aspects of your code we will assess include:
 
 Bonus point (those items are optional):
 
-* **UX**: is the web interface understandable and pleasing to use? Is the API intuitive?
+* **UX**: is the web interface understandable and pleasing to use? 
 * **Scalability**: will technical choices scale well? If not, is there a discussion of those choices in the README? 
 * **Production-readiness**: does the code include monitoring? logging? proper error handling?
