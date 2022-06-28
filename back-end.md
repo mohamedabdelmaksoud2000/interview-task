@@ -1,4 +1,4 @@
-# BE interview task coding challenge.
+# Interview task coding challenge.
 Please organize, design, test, document, and deploy your code as if it were
 going into production.
 
